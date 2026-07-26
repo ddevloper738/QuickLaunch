@@ -1,5 +1,7 @@
 # QuickLaunch 🚀
 
+> **For AI coding assistants:** See `.agentinstructions.md` at the project root for detailed project context, architecture guidance, and implementation instructions.
+
 **QuickLaunch** is a global keyboard launcher for Windows — built with **WPF (.NET Framework 4.7.2)**.
 
 QuickLaunch sits quietly in the system tray, waiting for a customizable hotkey. When invoked, it brings up a sleek overlay that lets you instantly search for and launch applications, files, folders, and commands — all from your keyboard.
