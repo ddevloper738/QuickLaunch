@@ -1,19 +1,18 @@
-# QuickLaunch 🚀
+# QuickLaunch
 
 > **For AI coding assistants:** See `.agentinstructions.md` at the project root for detailed project context, architecture guidance, and implementation instructions.
 
-**QuickLaunch** is a global keyboard launcher for Windows — built with **WPF (.NET Framework 4.7.2)**.
+**QuickLaunch** is a calm, keyboard-first launcher for Windows, built with **WPF (.NET Framework 4.7.2)**.
 
 QuickLaunch sits quietly in the system tray, waiting for a customizable hotkey. When invoked, it brings up a sleek overlay that lets you instantly search for and launch applications, files, folders, and commands — all from your keyboard.
 
-## Features (Planned)
+## Features
 
-- ⚡ **Global Hotkey** — Summon the launcher from anywhere with a single keystroke
-- 🔍 **Fuzzy Search** — Find what you need fast with smart, typo-tolerant matching
-- 📂 **App & File Launching** — Launch installed programs, documents, folders, and URLs
-- 🧩 **Plugin System** — Extend QuickLaunch with custom commands and providers
-- 🎨 **Clean WPF UI** — Modern, lightweight overlay that blends into any workflow
-- ⚙️ **Customizable** — Configure hotkeys, themes, search sources, and more
+- **Global hotkey** — Press `Ctrl + Space` from anywhere to show or hide the launcher.
+- **Fast search** — Search built-in actions and Windows Start Menu shortcuts with keyboard navigation.
+- **Safe launching** — Open apps, folders, and Windows settings with clear in-app failure feedback.
+- **System tray** — Keep QuickLaunch available without taking space on the taskbar.
+- **Minimal UI** — A focused dark overlay with sensible spacing, contrast, and visible keyboard hints.
 
 ## Getting Started
 
